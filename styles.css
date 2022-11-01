@@ -547,3 +547,13 @@ h3#greetings {
   width: 320px;
   margin: 20px 20px;
 }
+
+#getintouch_btn {
+  margin-left: 117px;
+  margin-top: 22px;
+  padding-left: 10px;
+}
+
+#getintouch_btn:hover {
+  background-color: #cc7333;
+}
