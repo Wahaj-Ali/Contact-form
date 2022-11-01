@@ -517,6 +517,7 @@ h3#greetings {
   height: 114px;
   width: 310px;
   padding: 10px 24px;
+  font-family: 'Inter', sans-serif;
 }
 
 #divider1 {
@@ -546,4 +547,15 @@ h3#greetings {
   border: 1px solid #979493;
   width: 320px;
   margin: 20px 20px;
+}
+
+#getintouch_btn {
+  margin-left: 117px;
+  margin-top: 22px;
+  padding-left: 10px;
+  font-family: 'Inter', sans-serif;
+}
+
+#getintouch_btn:hover {
+  background-color: #cc7333;
 }
